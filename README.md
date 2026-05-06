@@ -6,7 +6,7 @@
 
 ## 长什么样
 
-![screenshot](screenshot.png)
+![screenshot](soft/screenshot.png)
 
 窗口半透明，能透出背景的彩色光斑。透明度可以用滑块调，最低 15%，基本就是一层薄雾。
 
